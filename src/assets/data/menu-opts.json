@@ -25,8 +25,48 @@
         "redirectTo":"/refresher"
       },
       {
-        "icon":"search-outline",
-        "name":"Search",
-        "redirectTo":"/search"
+        "icon":"add-circle-outline",
+        "name":"Button",
+        "redirectTo":"/button"
+      },
+      {
+        "icon":"checkbox-outline",
+        "name":"Check",
+        "redirectTo":"/check"
+      },
+      {
+        "icon":"calendar-outline",
+        "name":"Date-Time",
+        "redirectTo":"/date-time"
+      },
+      {
+        "icon":"grid-outline",
+        "name":"Grid",
+        "redirectTo":"/grid"
+      },
+      {
+        "icon":"checkmark-outline",
+        "name":"Input",
+        "redirectTo":"/input"
+      },
+      {
+        "icon":"list-outline",
+        "name":"List",
+        "redirectTo":"/list"
+      },
+      {
+        "icon":"list-outline",
+        "name":"List Reorder",
+        "redirectTo":"/list-reorder"
+      },
+      {
+        "icon":"chevron-down-circle-outline",
+        "name":"Loading",
+        "redirectTo":"/loading"
+      },
+      {
+        "icon":"contract-outline",
+        "name":"Popover",
+        "redirectTo":"/popover"
       }
 ]
